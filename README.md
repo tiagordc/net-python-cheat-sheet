@@ -1,5 +1,4 @@
-
-##Reflection
+## Reflection
 
 | Command | Description |
 | --- | --- |
@@ -15,16 +14,16 @@ getsource(any)           ->  returns the source code\
 getfile(any)             ->  gets the location of the implementation\
 getmodule(any)           ->  gets module name
 
-##Metaclass
+## Metaclass
 
 
 
-##Decorators
+## Decorators
 
 
 
-##Generators
+## Generators
 
 
 
-##Context managers
+## Context managers
