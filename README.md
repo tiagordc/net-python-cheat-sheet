@@ -10,9 +10,11 @@
 
 from inspect import getsource, getfile, getmodule
 
-getsource(any)           ->  returns the source code\
-getfile(any)             ->  gets the location of the implementation\
-getmodule(any)           ->  gets module name
+| Command | Description |
+| --- | --- |
+| getsource(any) | returns the source code |
+| getfile(any) | gets the location of the implementation |
+| getmodule(any) | gets module name |
 
 ## Metaclass
 
