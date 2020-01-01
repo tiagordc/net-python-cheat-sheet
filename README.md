@@ -1,3 +1,14 @@
+
+# References
+
+[The Python Standard Library](https://docs.python.org/3/library/index.html)
+
+## Built-in Functions
+
+|  |  | Functions |  |  |
+|--- | --- | --- | --- | --- |
+| abs | delattr | hash | memoryview | set | 
+
 ## Reflection
 
 | Command | Description |
