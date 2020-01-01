@@ -3,29 +3,23 @@
 
 [The Python Standard Library](https://docs.python.org/3/library/index.html)
 
-## Built-in Functions
-
-|  |  | Functions |  |  |
-|--- | --- | --- | --- | --- |
-| abs | delattr | hash | memoryview | set | 
-
 ## Reflection
 
-| Command | Description |
+| Function | Description |
 | --- | --- |
-| help(any) | display available information |
-| type(object) | returns the type of the object |
-| callable(any) | means anything that can be called. Implements \_\_call\_\_() |
-| dir(object) | return a list of valid attributes of the object. Can be overriden by \_\_dir\_\_() |
-| getattr(object, "attr") | returns the value of the named attribute of an object. If not found, it returns the default value provided |
+| help | display available information |
+| type | returns the type of the object |
+| callable | means anything that can be called. Implements \_\_call\_\_() |
+| dir | return a list of valid attributes of the object. Can be overriden by \_\_dir\_\_() |
+| getattr | returns the value of the named attribute of an object. If not found, it returns the default value provided |
 
 from inspect import getsource, getfile, getmodule
 
-| Command | Description |
+| Function | Description |
 | --- | --- |
-| getsource(any) | returns the source code |
-| getfile(any) | gets the location of the implementation |
-| getmodule(any) | gets module name |
+| getsource | returns the source code |
+| getfile | gets the location of the implementation |
+| getmodule | gets module name |
 
 ## Metaclass
 
