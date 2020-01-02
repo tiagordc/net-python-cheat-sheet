@@ -11,7 +11,7 @@
 
 | Function | Description |
 | --- | --- |
-| help | display available information |
+| [help](https://docs.python.org/3/library/functions.html#help) | display available information |
 | type | returns the type of the object |
 | callable | means anything that can be called. Implements \_\_call\_\_() |
 | dir | return a list of valid attributes of the object. Can be overriden by \_\_dir\_\_() |
