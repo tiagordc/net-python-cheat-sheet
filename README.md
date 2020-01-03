@@ -10,7 +10,7 @@
 ## Reflection
 
 | Function | Description | Attribute |
-| --- | --- |
+| --- | --- |  --- |
 | [help](https://docs.python.org/3/library/functions.html#help) | get built-in help | |
 | [type](https://docs.python.org/3/library/functions.html#type) | the type of the object | |
 | [callable](https://docs.python.org/3/library/functions.html#callable) | check if can be called | \_\_call\_\_ |
