@@ -7,14 +7,13 @@
 
 [Real Python](https://realpython.com/)
 
-## Math
+# Index
 
-## Lists
-
-## Metaclass
-
-## Decorators
-
-## Generators
-
-## Context managers
+[Basics](./basics.md)
+[Lists](./lists.md)
+[Math](./math.md)
+[Reflection](./basics.md)
+[Metaclass](./metaclass.md)
+[Decorators](./decorators.md)
+[Generators](./generators.md)
+[Context managers](./context managers.md)
