@@ -9,11 +9,11 @@
 
 # Index
 
-[Basics](./basics.md)
-[Lists](./lists.md)
-[Math](./math.md)
-[Reflection](./basics.md)
-[Metaclass](./metaclass.md)
-[Decorators](./decorators.md)
-[Generators](./generators.md)
-[Context managers](./context managers.md)
+[Basics](./basics.md)\
+[Lists](./lists.md)\
+[Math](./math.md)\
+[Reflection](./reflection.md)\
+[Metaclass](./metaclass.md)\
+[Decorators](./decorators.md)\
+[Generators](./generators.md)\
+[Context managers](./context%20managers.md)
