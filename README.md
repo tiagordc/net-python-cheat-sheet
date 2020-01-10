@@ -16,5 +16,5 @@
 [Metaclass](./metaclass.md)\
 [Decorators](./decorators.md)\
 [Generators](./generators.md)\
-[Context managers](./context%20managers.md)
+[Context managers](./context%20managers.md)\
 [Conda](./conda.md)
