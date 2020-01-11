@@ -18,6 +18,7 @@ Command line package and environment manager
 | conda list | list all packages and versions installed in active environment |
 | conda list --revisions | list the history of each change to the current environment  |
 | conda install --revision 2 | restore environment to a previous revision |
-| conda list --explicit > requirements.txt | save environment to a text file  |
-| conda env create --file requirements.txt  | create environment from a text file |
+| conda env export > requirements.yml | save environment to file  |
+| conda env create --file requirements.yml  | create environment from file |
 | conda env remove --name bio-env | delete an environment and everything in it  |
+| pip freeze > requirements.txt | |
