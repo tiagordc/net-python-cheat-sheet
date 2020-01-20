@@ -11,6 +11,7 @@
 
 [Basics](./basics.md)\
 [Lists](./lists.md)\
+[Comprehensions](./comprehensions.md)\
 [Math](./math.md)\
 [Reflection](./reflection.md)\
 [Metaclass](./metaclass.md)\
